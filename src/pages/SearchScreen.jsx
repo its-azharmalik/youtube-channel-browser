@@ -2,10 +2,8 @@ import React from 'react';
 
 function SearchScreen() {
     return (
-        <div>
-        SearchScreen</div>
+        <div>SearchScreen</div>
     );
-}
-
+};
 
 export default SearchScreen;
