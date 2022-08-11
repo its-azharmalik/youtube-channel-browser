@@ -1,11 +1,11 @@
-import React from 'react'
+import React from 'react';
 
 function SearchScreen() {
-  return (
-    <div>
+    return (
+        <div>
         SearchScreen</div>
-  )
+    );
 }
 
 
-export default SearchScreen
+export default SearchScreen;
