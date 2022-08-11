@@ -1,4 +1,4 @@
-import React from 'react'
+import React from 'react';
 
 function SingleCategory() {
   return (
@@ -6,7 +6,7 @@ function SingleCategory() {
     {/* Circular Channel Image */}
     {/* Channel Name */}
     </>
-  )
+  );
 }
 
-export default SingleCategory
+export default SingleCategory;

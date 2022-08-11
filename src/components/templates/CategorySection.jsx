@@ -1,4 +1,4 @@
-import React from 'react'
+import React from 'react';
 
 function CategorySection() {
   return (
@@ -6,7 +6,7 @@ function CategorySection() {
     {/* use the organisms and template the design */}
     {/*  */}
     </>
-  )
+  );
 }
 
-export default CategorySection
+export default CategorySection;

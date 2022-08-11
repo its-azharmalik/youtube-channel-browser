@@ -1,4 +1,4 @@
-import React from 'react'
+import React from 'react';
 import styled from 'styled-components';
 
 import image from '../../assets/Images/channel-circle.png';
@@ -9,10 +9,8 @@ const CircularChannelImageTag = styled.img`
 
 function CircularChannelImage() {
   return (
-        <CircularChannelImageTag src={image} />
+    <CircularChannelImageTag src={image} />
   );
 };
 
-export default CircularChannelImage
-
-
+export default CircularChannelImage;
