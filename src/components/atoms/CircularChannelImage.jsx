@@ -4,7 +4,8 @@ import styled from 'styled-components';
 import image from '../../assets/Images/channel-circle.png';
 
 const CircularChannelImageTag = styled.img`
-    'border': '1px soild'
+  width: 50px;
+  height: 50px;
 `;
 
 function CircularChannelImage() {

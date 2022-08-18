@@ -21,6 +21,7 @@ module.exports = {
         'prettier'
     ],
     "rules": {
-        'semi': ['error', 'always'] 
+        'semi': ['error', 'always'],
+        "react/prop-types": "off" 
     }
 };

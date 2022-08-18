@@ -1,8 +1,15 @@
 import React from 'react';
 
+// components
+import CategorySection from '../components/templates/CategorySection';
+import ExploreTopBar from '../components/templates/ExploreTopBar';
+
 function ExploreScreen() {
     return (
-        <div>ExploreScreen</div>
+        <div>
+            <ExploreTopBar />
+            <CategorySection />
+        </div>
     );
 };
 
